@@ -1,4 +1,3 @@
-layout_spectrum: 0.26443910016678274
 typography_spectrum: 0.9218215676955879
 color:
   brandStrength: 0.37853013281710446
@@ -11,5 +10,7 @@ color:
     - '#CD5334'
     - '#EDB88B'
     - '#FAD8D6'
+layout_spectrum: 0.26443910016678274
 name: ReportageIowa
 title: Reportage Iowa
+description: Photos from the Midwest that Make a Difference
