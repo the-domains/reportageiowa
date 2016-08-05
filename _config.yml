@@ -1,0 +1,14 @@
+layout_spectrum: 0.26443910016678274
+typography_spectrum: 0.9218215676955879
+color:
+  brandStrength: 0.37853013281710446
+  lightness: 0.05539590329863131
+  saturation: 0.7751156894955784
+  rhythmicContrast: 0.0809996728785336
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+name: ReportageIowa
