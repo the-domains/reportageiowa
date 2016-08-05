@@ -6,9 +6,10 @@ color:
   saturation: 0.7751156894955784
   rhythmicContrast: 0.0809996728785336
   brandColors:
-    - '#FFFFFF'
-    - '#CCCCCC'
-    - '#999999'
-    - '#4D4D4D'
-    - '#333333'
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
 name: ReportageIowa
+title: Reportage Iowa
